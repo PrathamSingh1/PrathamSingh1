@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **javaScript,Next.js,Python,C++**
 
-- 📫 reach me @  **abhi120730@gmail.com**
+- 📫 reach me @  **prathamjii36@gmail.com**
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
@@ -151,7 +151,7 @@
     <thead>
 	    <tr>
 		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
 		  </th>
 		</tr>
       <tr>
