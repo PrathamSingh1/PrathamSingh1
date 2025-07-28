@@ -107,7 +107,7 @@
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode"> <img style="object-fit:fill" height=40 src="https://i.ibb.co/YXhzhGC/Untitled-design-removebg-preview.png">
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode">
 	</td>
 	</tr>
 	<tr>
