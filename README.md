@@ -5,7 +5,7 @@
 
 
 
- <img src="https://in.pinterest.com/pin/25966135340844899/" width="140" height="160">
+ <img src="https://i.pinimg.com/originals/bb/67/22/bb672227b6075399a3f80e3c86d84396.gif" width="140" height="160">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="180" height="170">
   <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
   <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
