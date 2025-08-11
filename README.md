@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 
  
@@ -11,13 +11,13 @@
 
   <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
 
-  <img src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif" width="140">
+  <!-- <img src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif" width="140">
 
 <img src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif"  width="174" height="190">
 
 <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" >
-</div>
-<br>
+</div> --> -->
+<!-- <br> -->
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
