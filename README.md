@@ -24,10 +24,10 @@ I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer b
 
 #### Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/shashi-ranjan-singh-b94b7524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/PrathamSinghh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="My Leetcode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/PrathamSingh001" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=512" alt="My Codeforces" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/prathamdbet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="My GFG" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashi-ranjan-singh-b94b7524a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/PrathamSinghh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="My Leetcode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/PrathamSingh001" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=512" alt="My Codeforces" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/prathamdbet/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="My GFG" height="30" width="40" /></a>
 </p>
 
 
