@@ -63,11 +63,6 @@ I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer b
           </a>
         </th>
       </tr>
-    </thead>
-	   <tr>
-        <td  colspan="2" align="center"> 
-		<br>
-	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-		
+    </thead>		
 </markdown-accessiblity-table>
 </div>
