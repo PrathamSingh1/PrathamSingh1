@@ -35,7 +35,7 @@ I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer b
 #### Languages Tools and Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,saas,js,ts,java,react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,git,github,postman,docker,c,vim,npm,vscode,vercel,gcp,cloudflare,aws,nginx,bash,linux,kali,windows,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,sass,js,ts,java,react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,git,github,postman,docker,c,vim,npm,vscode,vercel,gcp,cloudflare,aws,nginx,bash,linux,kali,windows,stackoverflow" />
   </a>
 </p>
 
