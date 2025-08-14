@@ -1,153 +1,45 @@
-<!-- <div align="center">
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-
- 
-
-
-
- <img src="https://i.pinimg.com/originals/bb/67/22/bb672227b6075399a3f80e3c86d84396.gif" width="150" height="180">
-
- <img src="https://i.pinimg.com/originals/c6/0f/74/c60f745b8819d349a38b0133af6da2c3.gif" width="180" height="170">
-
-  <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
-
-  <!-- <img src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif" width="140">
-
-<img src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif"  width="174" height="190">
-
-<img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" >
-</div> --> -->
-<!-- <br> -->
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Shashi Ranjan Singh"/></h1>
-
-
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
-
-</h3>
-
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
-
+I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer based in India.
 <br><br>
 
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="abhishek249494" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathamSingh1&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="PrathamSingh1" /> </p>
 
 
-- 🔭 I’m currently working on **Earthsomeweb.vercel.app**
+- 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning **Three.js,DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **javaScript,Next.js,Python,C++**
+- 💬 Ask me about **JavaScript, React, Next.Js**
 
 - 📫 reach me @  **prathamjii36@gmail.com**
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchain, and DSA**
+- 👀 I’m interested in **Frontend Development, Backend Development**
   
-- ⚡ Fun fact **I am a Funny webber🕸️🕸️**
+- ⚡ Fun fact **I go to sleep when you wake up.**
 
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
+#### Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/shashi-ranjan-singh-b94b7524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/PrathamSinghh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="My Leetcode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/PrathamSingh001" target="blank"><img align="center" src="https://codeforces.org/s/25266/images/codeforces-sponsored-by-ton.png" alt="My Codeforces" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/prathamdbet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="My GFG" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
+<br><br>
 
- <br><br>
-<a href="https://www.linkedin.com/in/abhishekdata100/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
- 
-<a href="https://www.codechef.com/users/abhishek9424" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Abhishek2494/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-  <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
-  
-</a>
-
-</div>
+#### Languages Tools and Technologies:
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <br><br>
 
 <div align="center">
-<h2 align='center'><strong>Languages, Tools and Technologies 🚀 </strong></h2>
-	<br>
-<table>
-	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js,latex&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=py,django&theme=dark"></td>
-	</tr>
-	<tr>
-	<tr>
-		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frameworks</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,django&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Cloud Deployment</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=aws&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Hosting Services</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode">
-	</td>
-	</tr>
-	<tr>
-		<td><strong>Debugging Tools</strong></td>
-		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> &nbsp;<img height=40 src="https://i.ibb.co/NYSZFBr/Untitled-design-6-removebg-preview.png">&nbsp;<img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png"></td>
-	</tr>
-	<tr>
-		<td><strong>Collaboration Platforms</strong></td>
-		<td> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></td>
-	</tr>
-	<tr>
-		<td><strong>Operating System</strong></td>
-		<td>
-		 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		</td>
-	</tr>
-</table>
-</div>
 
-<br><br>
-
-</table>
-</div>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
-
-<br/>
-<br/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
-
-
-<div align="center">
-<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
-
+#### Github Analytics:
 <br>
 
 <markdown-accessiblity-table data-catalyst="">
@@ -176,11 +68,11 @@
 		<br>
 	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 		
-<picture>
+<!-- <picture>
   		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathamSingh1/PrathamSingh1/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathamSingh1/PrathamSingh1/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/PrathamSingh1/PrathamSingh1/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+</picture> -->
 	</td>
 	</tr>
   </table>
