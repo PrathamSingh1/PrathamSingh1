@@ -30,7 +30,6 @@ I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer b
 <a href="https://www.geeksforgeeks.org/user/prathamdbet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="My GFG" height="30" width="40" /></a>
 </p>
 
-<br><br>
 
 #### Languages Tools and Technologies:
 <p align="center">
@@ -38,8 +37,6 @@ I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer b
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,sass,js,ts,java,react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,git,github,postman,docker,c,vim,npm,vscode,vercel,gcp,cloudflare,aws,nginx,bash,linux,kali,windows,stackoverflow" />
   </a>
 </p>
-
-<br><br>
 
 <div align="center">
 
@@ -72,16 +69,5 @@ I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer b
 		<br>
 	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 		
-<!-- <picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathamSingh1/PrathamSingh1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathamSingh1/PrathamSingh1/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PrathamSingh1/PrathamSingh1/output/github-contribution-grid-snake-dark.svg" />
-</picture> -->
-	</td>
-	</tr>
-  </table>
-  
 </markdown-accessiblity-table>
 </div>
-
-<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
