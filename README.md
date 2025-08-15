@@ -3,7 +3,7 @@
 I’m [**Shashi Ranjan Singh**](https://www.miraya.tech), a fullstack engineer based in India.
 <br><br>
 
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"/>
+<img align="right" style="border-radius: 10px;" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathamSingh1&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="PrathamSingh1" /> </p>
 
