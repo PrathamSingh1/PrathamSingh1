@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"/>
+<img align="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"/>
 
 Fullstack Engineer / Builder. I love learning, breaking, and shipping things.
 
