@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"/>
+<!-- <img align="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"/> -->
 
 Fullstack Engineer / Builder. I love learning, breaking, and shipping things.
 
@@ -6,9 +6,9 @@ Fullstack Engineer / Builder. I love learning, breaking, and shipping things.
 - I put my code where my mouth is — actions ship louder than words.
 - Currently going deep on **advanced backend** and **system design**, and building **a UI library** + **an interview prep platform**.
 
-#### Languages Tools and Technologies:
+<!-- #### Languages Tools and Technologies: -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -43,8 +43,4 @@ Fullstack Engineer / Builder. I love learning, breaking, and shipping things.
   <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</p>
-
-<div align="center">
-
-</div>
+</p> -->
