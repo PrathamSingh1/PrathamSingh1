@@ -6,7 +6,7 @@ Engineer / Builder. I love learning, building, and shipping things.
 - I believe consistency beats motivation, so I focus on shipping and learning every day.
 - Currently diving deep into advanced backend engineering and system design.
 
-Currently going to build **a UI library** + **an interview prep platform**.
+Currently building **Aceui** and **Aceprep**.
 
 <!-- #### Languages Tools and Technologies: -->
 
