@@ -6,7 +6,7 @@ Engineer / Builder. I love learning, building, and shipping things.
 - I believe consistency beats motivation, so I focus on shipping and learning every day.
 - Currently diving deep into advanced backend engineering and system design.
 
-Currently building **Aceui** and **Aceprep**.
+Currently building **[Aceui](https://github.com/PrathamSingh1/Aceui)** and **[Aceprep](https://github.com/PrathamSingh1/Aceprep)**.
 
 <!-- #### Languages Tools and Technologies: -->
 
